@@ -6,4 +6,4 @@
 </picture>
 
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
-[![Star History Chart](https://api.star-history.com/svg?repos=BEPb/BEPb&type=Date)](https://star-history.com/#BEPb/BEPb&Date)
+
