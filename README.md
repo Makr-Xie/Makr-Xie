@@ -5,6 +5,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
 </picture>
 
-![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
-
-![](https://count.getloli.com/get/@BEPb.github.readme)
+![](https://count.getloli.com/get/@Makr-Xie.github.readme)
