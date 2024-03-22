@@ -6,7 +6,8 @@ I‘m Mark (Yixuan Xie) -- I am a sophomore student majoring in Computer Science
 
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Makr-Xie" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makr-Xie&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Makr-Xie" /><span>  
+</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makr-Xie&layout=compact&langs_count=8" />
 <span>  </span>
 </div>
 
