@@ -2,7 +2,7 @@
 
 
 
-I‘m Mark (Yixuan Xie) -- I am a junior student majoring in Computer Science and Statistics at the University of Illinois (UIUC). I am a CS enthusiast who loves seeking creative solutions to complex challenges!  Feel free to connect with me, ask questions, or simply start a conversation about the latest tech trends, coding challenges, or any other topic that sparks your interest.
+I‘m Mark (Yixuan Xie) -- I am a comming senior student majoring in Computer Science and Statistics at the University of Illinois (UIUC). I am a CS enthusiast who loves seeking creative solutions to complex challenges!  Feel free to connect with me, ask questions, or simply start a conversation about the latest tech trends, coding challenges, or any other topic that sparks your interest.
 
 <div align="center">
 <span>  </span>
